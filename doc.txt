@@ -6,4 +6,3 @@ more new text
 new3
 What is this
 Made an additional change to test terminal commands
-New branch change
